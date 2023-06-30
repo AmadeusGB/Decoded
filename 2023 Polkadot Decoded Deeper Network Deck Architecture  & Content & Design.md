@@ -1,5 +1,5 @@
 # 2023 Polkadot Decoded Deeper Network Deck Architecture  & Content & Design
-**Slide 1: Title Slide**
+## Slide 1: Title Slide
 
 *Content and Speaker's Note:*
 
