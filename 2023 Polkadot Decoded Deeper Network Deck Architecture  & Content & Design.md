@@ -109,9 +109,7 @@ Together, these three pillars form a triad that is greater than the sum of its p
 
 The statistics section will include the following data in a visually engaging format:
 
-- Blockchain: "Global blockchain market size is expected to reach
-
-$30 billion by 2023."
+- Blockchain: "Global blockchain market size is expected to reach $30 billion by 2023."
 - Cybersecurity: "By 2025, the financial impact of cybercrime is expected to reach $10.5 trillion annually."
 - Sharing Economy: "The global sharing economy is expected to grow to approximately $335 billion by 2025."
 
