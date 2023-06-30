@@ -1,17 +1,38 @@
 # 2023 Polkadot Decoded Deeper Network Deck Architecture  & Content & Design
-## Slide 1: Title Slide
+**Slide 1: Title Slide**
 
-- Title: Deeper Network: Building a Safe, Powerful, and Dynamic Web3 Ecosystem
-- Subtitle: Pioneering the Internet's Evolution
+*Content and Speaker's Note:*
+
+- Title: Unveiling the Future of the Internet with Deeper Network
+- Subtitle: The Convergence of Blockchain, Cybersecurity, and the Sharing Economy
 - Speaker: Bin Guo, Head of Deeper Network Blockchain
 - Date: July 15th
-- Event: Polkadot Decoded 2023 Conference
+- Visuals: Deeper Network logo, an abstract background representing connectivity and security.
 
-*Introduction (Speaker's Note):*
+*Speaker's Note:*
 
-"Good morning/afternoon everyone, and thank you for joining us today at the Polkadot Decoded 2023 Conference. My name is Bin Guo, and I am the Head of Blockchain at Deeper Network. It is an honor to be here to talk about how Deeper Network is revolutionizing the internet through its cutting-edge innovations. Today, we will dive into the world of Web3, explore the synergy of blockchain, cybersecurity, and the sharing economy, and see how Deeper Network is at the forefront of this transformation. Let’s embark on this journey to discover how we can redefine our interaction with the digital world."
+"Good [morning/afternoon/evening] everyone, thank you for joining us today. My name is Bin Guo, and I am the Head of Deeper Network Blockchain. Today, I am thrilled to present to you how Deeper Network is at the forefront of the internet evolution, converging Blockchain, Cybersecurity, and the Sharing Economy. We will explore how these technologies are transforming the way we interact with the digital world and how Deeper Network is pioneering this transformation."
 
-This slide sets the stage for the presentation and gives the audience an idea of what to expect. The speaker introduces himself and gives a brief overview of the topics that will be covered.
+*Design Layout:*
+
+1. The slide background should be sleek and modern, possibly using a dark theme with blue accents to represent technology and security.
+2. The title should be at the top, centered, in a bold, large font.
+3. The subtitle should be just below the title, in a slightly smaller font.
+4. Place the Deeper Network logo at the top right corner.
+5. Below the subtitle, place the speaker's name and position in an elegant font.
+6. Place the date at the bottom right corner in a smaller font.
+7. Use an abstract background image representing connectivity, perhaps with lines connecting dots or a digital lock to represent security.
+
+*Presentation Effect:*
+
+1. The slide should have a fade-in effect as it's the first slide to be presented.
+2. The title and subtitle should be the focus, so they should stand out.
+3. The speaker should start by greeting the audience and introducing himself.
+4. The speaker should briefly introduce the topics that will be covered during the presentation.
+
+*Additional Information:*
+
+This is the first slide and sets the tone for the entire presentation. It should be visually appealing and engaging, without being too cluttered. The speaker should be enthusiastic and welcoming, to capture the audience's attention from the beginning.
 
 ## Slide 2: The Internet Evolution: Web3
 
@@ -45,12 +66,13 @@ This slide should serve as an eye-opener for the audience. The timeline graphic 
 ## Slide 3: The Triad of Transformation: Blockchain, Cybersecurity, Sharing Economy
 
 - Title: The Triad of Transformation
-- Subtitle: Blockchain, Cybersecurity, Sharing Economy
-- Visuals: Three interconnected pillars representing Blockchain, Cybersecurity, and Sharing Economy.
-- Bullet Points:
-    - Synergy of Blockchain, Cybersecurity, and Sharing Economy
-    - Transformative Potential
-    - Real-world Impact
+- Subtitle: Unleashing the Power of Blockchain, Cybersecurity, and the Sharing Economy
+- Visuals: Three interconnected circles (Venn Diagram) representing each element of the triad, with the intersection representing the synergy among them. Each circle contains icons and keywords.
+- Statistics: 
+    - Global blockchain market size: $30 billion (2023)
+    - Financial impact of cybercrime: $10.5 trillion annually (2025)
+    - Global sharing economy size: $335 billion (2025)
+- Quote: "The intersection of Blockchain, Cybersecurity, and the Sharing Economy is where the future is being built." - Anonymous
 
 *Content and Speaker's Note:*
 
@@ -66,25 +88,52 @@ Together, these three pillars form a triad that is greater than the sum of its p
 
 *Design Layout:*
 
-1. The top section of the slide should have the title and subtitle centered.
-2. Below this, there should be a large graphic in the center depicting three pillars or columns, each labeled with one of the three elements: Blockchain, Cybersecurity, and Sharing Economy. These pillars should be visually interconnected, possibly with arrows or lines, to represent synergy.
-3. Each pillar should have an associated icon or image that represents its essence (e.g., chains for Blockchain, a shield for Cybersecurity, and hands shaking or sharing for Sharing Economy).
-4. Around each pillar, there should be keywords or short phrases that highlight the core aspects of each element.
-5. The bottom section of the slide should have bullet points that the speaker can use as talking points.
+1. The slide background should be sleek and modern, possibly with a subtle technological pattern or gradient.
+2. The title and subtitle should be at the top, centered, in bold fonts.
+3. Below the title, place a large Venn Diagram with three overlapping circles. Each circle represents one of the elements: Blockchain, Cybersecurity, Sharing Economy.
+4. Inside each circle, include an icon representing the element (e.g., chain link for Blockchain, shield for Cybersecurity, and people for Sharing Economy) along with 2-3 keywords (e.g., Transparency, Security, Decentralization).
+5. In the intersection of the circles, include an icon representing synergy or transformation.
+6. On the right or bottom of the Venn Diagram, include a section with eye-catching statistics in the form of infographics.
+7. Include a thought-provoking quote at the bottom, in an elegant font, and in a contrasting color to stand out.
 
 *Presentation Effect:*
 
-This slide should convey the interdependence and synergy of the three pillars. The graphic should be visually striking, with the interconnected pillars serving as a metaphor for how these technologies support and amplify each other. The speaker should use a tone of revelation, highlighting how these are not just buzzwords, but critical elements that are revolutionizing the internet. The design should be sleek and futuristic, reflecting the cutting-edge nature of these technologies. The audience should leave this slide with a clear understanding of why these three elements are critical and how they are interwoven in the fabric of Web3.
+1. The Venn Diagram should be the focal point of the slide. It visually represents the interconnection of the three elements.
+2. The icons and keywords within the circles should be simple and self-explanatory.
+3. The statistics section should be visually engaging, with infographics that are easy to understand at a glance.
+4. The quote should be in a contrasting color to stand out.
+5. The speaker should use a laser pointer or similar tool to guide the audience through the elements of the Venn Diagram.
+6. The transition to this slide should be dynamic, possibly with the circles of the Venn Diagram appearing one after the other.critical and how they are interwoven in the fabric of Web3.
+
+*Additional Information:*
+
+The statistics section will include the following data in a visually engaging format:
+
+- Blockchain: "Global blockchain market size is expected to reach
+
+$30 billion by 2023."
+- Cybersecurity: "By 2025, the financial impact of cybercrime is expected to reach $10.5 trillion annually."
+- Sharing Economy: "The global sharing economy is expected to grow to approximately $335 billion by 2025."
+
+These statistics will be presented using infographics. For instance, the blockchain statistic could be represented by a rising graph with a chain link pattern, the cybersecurity statistic could be represented by a shield with a dollar sign, and the sharing economy statistic could be represented by a pie chart with people icons.
+
+The quote, "The intersection of Blockchain, Cybersecurity, and the Sharing Economy is where the future is being built," should be prominently displayed at the bottom in an elegant font. This quote serves to emphasize the importance and interplay of these three transformative technologies.
+
+The speaker should engage with the audience by asking if anyone has experienced the impact of these technologies in their own lives and should be prepared to give real-world examples of how this triad is currently transforming various industries.
+
+In terms of design precautions, it’s important to ensure that the slide is not too cluttered and that each element has enough space. The fonts should be legible even for those sitting further back in the audience. The color scheme should be consistent with the branding of the company or topic and should be visually appealing without being distracting.
+
+In summary, this slide serves as a visually engaging and informative overview of the interplay between Blockchain, Cybersecurity, and the Sharing Economy, highlighting their collective impact and significance in the modern world.
 
 ## Slide 4: Deeper Network: The Vanguard of Web3
 
 - Title: Deeper Network: The Vanguard of Web3
-- Subtitle: Pioneering a Secure and Decentralized Internet
-- Visuals: A dynamic graphic of Deeper Network's logo as a shield protecting the globe, with elements of blockchain, cybersecurity, and sharing economy integrated.
-- Bullet Points:
-    - Mission and Vision
-    - Addressing Internet Challenges
-    - Empowering Users
+- Subtitle: Building the Next-Generation Internet
+- Visuals: A large, central image of the Earth, with interconnected nodes representing the Deeper Network. The nodes should be in the form of the Deeper Network logo.
+- Mission Statement: "Combining network security technology and blockchain technology to create a more private, secure, and fair next-generation trusted Internet."
+- Vision Statement: "Use blockchain technology to empower real users of the Internet, not only to build the future WEB 3.0 infrastructure but also to establish an accessible gateway for everyone to join this revolution."
+- Key Features: Decentralization, Security, Privacy, Accessibility
+- Call to Action: "Join the Revolution"
 
 *Content and Speaker's Note:*
 
@@ -98,25 +147,35 @@ Deeper Network is here to change the status quo and lead the charge towards a sa
 
 *Design Layout:*
 
-1. The top section of the slide should have the title and subtitle centered.
-2. Below the title, there should be a large, dynamic graphic in the center depicting Deeper Network's logo as a shield protecting the globe. The shield should integrate elements representing blockchain, cybersecurity, and sharing economy.
-3. On one side of the graphic, there should be text or bullet points highlighting Deeper Network's mission and vision.
-4. On the other side, there should be text or bullet points highlighting the challenges that Deeper Network addresses.
-5. The bottom section of the slide should have bullet points that the speaker can use as talking points.
+1. The slide background should be futuristic, with a dark theme to represent the vastness of the internet.
+2. The title and subtitle should be at the top, centered, in bold fonts.
+3. Below the title, place a large, central image of the Earth with interconnected nodes in the form of the Deeper Network logo.
+4. On the left side of the Earth image, display the mission statement in an elegant font.
+5. On the right side of the Earth image, display the vision statement in an elegant font.
+6. Below the Earth image, display the key features (Decentralization, Security, Privacy, Accessibility) in a horizontal layout with icons representing each feature.
+7. At the bottom, include a call to action "Join the Revolution" in a bold, eye-catching font with a contrasting color.
 
 *Presentation Effect:*
 
-This slide should convey the leadership and pioneering role of Deeper Network in the Web3 revolution. The graphic should be visually powerful, depicting Deeper Network as a protector and enabler. The speaker should use a tone of empowerment and innovation, highlighting how Deeper Network is not just another player in the space but a leader that is shaping the future of the internet. The design should be bold and futuristic, reflecting the transformative nature of Deeper Network. The audience should leave this slide with a sense of the importance and central role of Deeper Network in the Web3 ecosystem.
+1. The Earth image should be the focal point of the slide, representing the global reach and interconnected nature of Deeper Network.
+2. The mission and vision statements should be elegant and inspiring.
+3. The key features section should be visually engaging, with simple icons and keywords.
+4. The call to action should be bold and eye-catching, encouraging the audience to engage with Deeper Network.
+5. The speaker should use a laser pointer or similar tool to guide the audience through the elements of the slide.
+6. The transition to this slide should be dynamic, possibly with the Earth image and nodes appearing in a network-building animation.
+
+*Additional Information:*
+
+This slide serves to introduce Deeper Network as a leader in the development of Web3, highlighting its mission, vision, key features, and inviting the audience to be a part of this transformative movement. The design and layout should be futuristic and inspiring, reflecting the innovative nature of Deeper Network and its role in building the next-generation internet.
 
 ## Slide 5: DEP - Unleashing the Potential of Web3
 
 - Title: DEP - Unleashing the Potential of Web3
-- Subtitle: Decentralized Edge Computing Platform
-- Visuals: A dynamic interconnected network of nodes representing DEP, with elements of blockchain, cybersecurity, and sharing economy.
-- Bullet Points:
-    - What is DEP?
-    - Significance in Web3
-    - Real-world Application: Oracle
+- Subtitle: Decentralized Edge Platform
+- Visuals: A dynamic graphic representation of a decentralized network with nodes and connections, with DEP at the center.
+- Key Features: Decentralized Tasks, Off-chain Infrastructure, Scalability, Security, Application Development
+- Real-world Application: Oracle Scenario
+- Quote: "DEP is the catalyst for new application forms, including predictors, zeronet, lightning network, triggers, mail service, and more."
 
 *Content and Speaker's Note:*
 
@@ -130,26 +189,33 @@ DEP is not just technology; it’s a catalyst for change. It’s about creating 
 
 *Design Layout:*
 
-1. The top section of the slide should have the title and subtitle centered.
-2. Below the title, there should be a large, dynamic graphic in the center depicting an interconnected network of nodes representing DEP. The network should integrate elements representing blockchain, cybersecurity, and sharing economy.
-3. On one side of the graphic, there should be text or bullet points explaining what DEP is and its significance in Web3.
-4. On the other side, there should be text or bullet points highlighting a real-world application of DEP, such as Oracle.
-5. The bottom section of the slide should have bullet points that the speaker can use as talking points.
+1. The slide background should have a modern and technological feel, possibly with a dark theme and abstract network patterns.
+2. The title and subtitle should be at the top, centered, in bold fonts.
+3. Below the title, place a dynamic graphic representation of a decentralized network with nodes and connections, with DEP at the center.
+4. On the left side of the graphic, display the key features in a vertical layout with icons representing each feature.
+5. On the right side of the graphic, display information about the real-world application (Oracle Scenario) in a text box.
+6. At the bottom, include a quote "DEP is the catalyst for new application forms, including predictors, zero net, lightning network, triggers, mail service, and more." in an elegant font.
 
 *Presentation Effect:*
 
-This slide should convey the innovation and transformative potential of DEP in the Web3 ecosystem. The graphic should be visually engaging, depicting DEP as an interconnected network that is dynamic, secure, and decentralized. The speaker should use a tone of excitement and innovation, highlighting how DEP is not just a technology but a catalyst for change in Web3. The design should be sleek and futuristic, reflecting the cutting-edge nature of DEP. The audience should leave this slide with a sense of the endless possibilities that DEP opens up in the Web3 space and how it empowers users and communities.
+1. The graphic representation of the decentralized network should be animated, with nodes and connections dynamically forming as the slide appears.
+2. The key features section should be visually engaging, with simple icons and keywords.
+3. The real-world application section should have a highlight or border to draw attention.
+4. The quote at the bottom should appear with a fade-in effect to leave a lasting impression.
+5. The speaker should use a laser pointer or similar tool to guide the audience through the elements of the slide.
+6. The transition to this slide should be smooth, with the network graphic being the focal point.
+
+*Additional Information:*
+
+This slide serves to introduce DEP as a revolutionary platform in the Web3 ecosystem. It should emphasize the decentralized nature of DEP, its key features, and its real-world applications. The design and layout should be modern and technological, reflecting the innovative nature of DEP. The speaker should engage the audience by explaining how DEP acts as a catalyst for new application forms and contributes to the evolution of Web3.
 
 ## Slide 6: Reinforcing Web3: Deeper Network’s Hardware Arsenal
 
 - Title: Reinforcing Web3: Deeper Network’s Hardware Arsenal
-- Subtitle: The Backbone of a Secure and Decentralized Web
-- Visuals: High-resolution images of Deeper Network's hardware products, with sleek design elements.
-- Bullet Points:
-    - Deeper Connect Generations
-    - Security and Performance
-    - Energy Efficiency
-    - Hardware Wallet with Triple Encryption
+- Subtitle: Empowering Decentralization with Cutting-Edge Hardware
+- Visuals: High-resolution images of Deeper Network's hardware products (Deeper Connect Lite, Mini, Nano, and Pico) arranged horizontally.
+- Key Features: Cross-Platform Compatibility, Low Energy Consumption, Hardware Wallet with Triple Encryption, Mining Rig with Network Security.
+- Quote: "Deeper Network's hardware is the backbone of a secure and decentralized Web3."
 
 *Content and Speaker's Note:*
 
@@ -165,25 +231,31 @@ Deeper Connect devices also serve as mining rigs for the Deeper chain, designed 
 
 *Design Layout:*
 
-1. The top section of the slide should have the title and subtitle centered.
-2. Below the title, there should be high-resolution images of Deeper Network's hardware products, arranged in a timeline to show the evolution from Deeper Connect Lite to Pico.
-3. Next to each product image, there should be sleek design elements highlighting key features such as cross-platform compatibility, low energy consumption, and triple encryption.
-4. The bottom section of the slide should have bullet points that the speaker can use as talking points.
+1. The slide background should be sleek and modern, with a subtle pattern or texture.
+2. The title and subtitle should be at the top, centered, in bold fonts.
+3. Below the title, place high-resolution images of Deeper Network's hardware products (Deeper Connect Lite, Mini, Nano, and Pico) arranged horizontally.
+4. Below the images, display the key features in a horizontal layout with icons and brief descriptions for each feature.
+5. At the bottom, include a quote "Deeper Network's hardware is the backbone of a secure and decentralized Web3." in an elegant font.
 
 *Presentation Effect:*
 
-This slide should convey the robustness and innovation of Deeper Network's hardware suite. The images of the hardware products should be sleek and high-resolution, reflecting the cutting-edge nature of the technology. The speaker should use a tone of authority and expertise, highlighting how Deeper Network's hardware is the backbone that reinforces the security and decentralization of Web3. The design should be clean and modern, with a focus on the hardware products. The audience should leave this slide with an understanding of the critical role that Deeper Network's hardware plays in the Web3 ecosystem, and how it combines energy efficiency with top-tier security.
+1. The hardware images should have a slight 3D effect to give depth and focus to the products.
+2. The key features section should be visually engaging, with simple icons and keywords. Each feature should appear one by one as the speaker discusses them.
+3. The quote at the bottom should appear with a fade-in effect to emphasize the importance of hardware in Web3.
+4. The speaker should use a laser pointer or similar tool to guide the audience through the elements of the slide.
+5. The transition to this slide should be smooth, with the hardware images being the focal point.
+
+*Additional Information:*
+
+This slide serves to showcase Deeper Network's hardware products and their role in reinforcing Web3. It should emphasize the cutting-edge features of the hardware and how they contribute to a secure and decentralized internet. The design and layout should be sleek and modern, reflecting the innovative nature of Deeper Network's hardware. The speaker should engage the audience by explaining the importance of hardware in the Web3 ecosystem and how Deeper Network is at the forefront of this revolution.
 
 ## Slide 7: Guardians of the Web: Security and Privacy in Web3
 
 - Title: Guardians of the Web: Security and Privacy in Web3
-- Subtitle: Safeguarding the Digital Frontier
-- Visuals: Cybersecurity shield, lock, and chain graphics; data flow diagrams; privacy icons.
-- Bullet Points:
-    - The Criticality of Security in Web3
-    - Deeper Network’s Security Measures
-    - Privacy as a Fundamental Right
-    - Real-world Security Scenario
+- Subtitle: Safeguarding Data and Restoring Trust in the Digital World
+- Visuals: A shield symbolizing security, a lock symbolizing privacy, and a web structure in the background to represent Web3.
+- Key Features: Decentralized Private Networks (DPN), Enterprise-Grade Firewall, AtomOS, Trident Protocol.
+- Quote: "In an age where data is the new currency, security and privacy are the guardians of this digital treasure."
 
 *Content and Speaker's Note:*
 
@@ -199,25 +271,31 @@ Let me share a real-world scenario. Imagine a journalist in a region with heavy 
 
 *Design Layout:*
 
-1. The top section of the slide should have the title and subtitle centered.
-2. Below the title, there should be a large graphic of a cybersecurity shield, with a lock and chain, symbolizing protection.
-3. On the left side, include bullet points for the speaker's talking points.
-4. On the right side, include a data flow diagram showing how Deeper Network secures data transmission in Web3.
-5. The bottom section should have an icon representing privacy, with a brief note on its importance.
+1. The slide background should have a web structure in light opacity to represent Web3.
+2. The title and subtitle should be at the top, centered, in bold fonts.
+3. Below the title, place a large shield symbolizing security and a lock symbolizing privacy.
+4. Below the visuals, display the key features in a horizontal layout with icons and brief descriptions for each feature.
+5. At the bottom, include a quote "In an age where data is the new currency, security and privacy are the guardians of this digital treasure." in an elegant font.
 
 *Presentation Effect:*
 
-This slide should instill the importance of security and privacy in the audience's minds. The cybersecurity shield graphic should be bold and imposing, symbolizing the strength of Deeper Network’s security measures. The speaker should use a tone of urgency and importance, emphasizing the criticality of security and privacy in Web3. The data flow diagram should be clear and informative, showing the audience how Deeper Network’s technology works to secure data transmission. The privacy icon should be simple but powerful, reminding the audience that privacy is a fundamental right. The audience should leave this slide with a deep understanding of the importance of security and privacy in Web3 and the role that Deeper Network plays as a guardian of the web.
+1. The shield and lock visuals should have a slight 3D effect and should appear to be protecting the web structure in the background.
+2. The key features section should be visually engaging, with simple icons and keywords. Each feature should appear one by one as the speaker discusses them.
+3. The quote at the bottom should appear with a fade-in effect to emphasize the importance of security and privacy in Web3.
+4. The speaker should use a laser pointer or similar tool to guide the audience through the elements of the slide.
+5. The transition to this slide should be smooth, with the shield and lock visuals being the focal point.
+
+*Additional Information:*
+
+This slide serves to highlight the importance of security and privacy in the Web3 ecosystem and how Deeper Network acts as a guardian in this space. The design and layout should be sleek and modern, reflecting the protective nature of Deeper Network's features. The speaker should engage the audience by explaining the critical role of security and privacy in safeguarding data and restoring trust in the digital world. The visuals should be symbolic and representative of the concepts being discussed.
 
 ## Slide 8: Community: The Lifeblood of Web3
 
-- Title: Community: The Lifeblood of Web3
-- Subtitle: Empowering and Engaging the Collective
-- Visuals: Diverse group of people connected through a network, community engagement icons, success story spotlight.
-- Bullet Points:
-    - The Role of Community in Web3
-    - Deeper Network’s Community Engagement
-    - Success Story Spotlight
+- Title: Community: The Driving Force of Web3
+- Subtitle: Empowering and Engaging the Community for a Decentralized Future
+- Visuals: A group of diverse people icons interconnected, representing the community, with arrows pointing outward symbolizing the driving force.
+- Key Features: Community Feedback, Decentralized Governance, Community-driven Initiatives, Global Engagement.
+- Quote: "The community is not just a part of the network; it is the network."
 
 *Content and Speaker's Note:*
 
@@ -233,25 +311,33 @@ Our community is our strength. Together, we are building a more secure, private,
 
 *Design Layout:*
 
-1. The top section of the slide should have the title and subtitle centered.
-2. Below the title, there should be a large graphic of a diverse group of people connected through a network, symbolizing the global community.
-3. On the left side, include bullet points for the speaker's talking points.
-4. On the right side, include icons representing different community engagement activities (e.g., social media, forums, events).
-5. The bottom section should have a spotlight on a success story, with a brief description and a quote from a community member.
+1. The slide background should be clean and modern.
+2. The title and subtitle should be at the top, centered, in bold fonts.
+3. Below the title, place a group of diverse people icons interconnected, representing the community.
+4. Arrows should emanate from the group of people, pointing outward to symbolize the driving force.
+5. Below the visuals, display the key features in a horizontal layout with icons and brief descriptions for each feature.
+6. At the bottom, include a quote "The community is not just a part of the network; it is the network." in an elegant font.
 
 *Presentation Effect:*
 
-This slide should evoke a sense of unity and collective power. The graphic of the diverse group of people should be vibrant and dynamic, symbolizing the global and diverse nature of the Deeper Network community. The speaker should use an inspiring and appreciative tone, emphasizing the invaluable contributions of the community. The community engagement icons should be interactive, possibly with hover-over effects that provide more information. The success story spotlight should be personal and relatable, with a real quote from a community member. The audience should leave this slide feeling inspired and understanding the critical role that community plays in the Web3 ecosystem and Deeper Network’s mission.
+1. The group of people icons should be colorful and diverse, representing a global community.
+2. The arrows emanating from the community should appear dynamically, symbolizing the driving force.
+3. The key features section should be visually engaging, with simple icons and keywords. Each feature should appear one by one as the speaker discusses them.
+4. The quote at the bottom should appear with a fade-in effect to emphasize the importance of the community in Web3.
+5. The speaker should use a laser pointer or similar tool to guide the audience through the elements of the slide.
+6. The transition to this slide should be dynamic, with the community visuals being the focal point.
+
+*Additional Information:*
+
+This slide serves to highlight the importance of the community in driving the development and adoption of Web3. The design and layout should be vibrant and energetic, reflecting the dynamism and diversity of the community. The speaker should engage the audience by explaining how Deeper Network empowers and engages the community to be an active part of the decentralized web. The visuals should be symbolic and representative of the concepts being discussed.
 
 ## Slide 9: Navigating the Future: Deeper Network’s Vision and Roadmap
 
 - Title: Navigating the Future: Deeper Network’s Vision and Roadmap
-- Subtitle: Pioneering the Next Era of the Internet
-- Visuals: Futuristic imagery, roadmap timeline, vision statement.
-- Bullet Points:
-    - Deeper Network’s Vision
-    - Upcoming Developments
-    - Long-term Goals
+- Subtitle: Charting the Course for a Decentralized, Secure, and Empowered Internet
+- Visuals: A dynamic roadmap graphic with milestones and a compass symbolizing navigation.
+- Key Features: Infrastructure Expansion, DeFi Ecosystem Development, Decentralized Advertising, Decentralized Video Content Platform, Integration of EVM onto Deeper Chain.
+- Quote: "Empowering real users of the Internet to build the future of Web 3.0."
 
 *Content and Speaker's Note:*
 
@@ -265,46 +351,87 @@ Our journey is just beginning, and we invite you to be a part of this transforma
 
 *Design Layout:*
 
-1. The top section of the slide should have the title and subtitle centered.
-2. Below the title, there should be a large, futuristic image representing the evolution of the internet, with elements of blockchain, cybersecurity, and sharing economy.
-3. On the left side, include a section with Deeper Network’s vision statement in an elegant font.
-4. On the right side, include a timeline graphic representing the roadmap. The timeline should be interactive, with the ability to click on milestones to reveal more information.
-5. The bottom section should have a call to action, inviting the audience to be a part of the transformation.
+1. The slide background should be futuristic with a subtle network pattern.
+2. The title and subtitle should be at the top, centered, in bold fonts.
+3. Below the title, place a dynamic roadmap graphic with milestones. The roadmap should be in the form of a path with icons representing each milestone.
+4. A compass should be integrated into the roadmap graphic to symbolize navigation.
+5. Below the visuals, display the key features in a horizontal layout with icons and brief descriptions for each feature.
+6. At the bottom, include a quote "Empowering real users of the Internet to build the future of Web 3.0." in an elegant font.
 
 *Presentation Effect:*
 
-This slide should evoke a sense of excitement and anticipation for the future. The futuristic imagery should be visually striking, capturing the audience’s imagination. The speaker should use an inspiring and visionary tone, painting a picture of the possibilities that lie ahead. The interactive timeline should engage the audience, allowing them to explore Deeper Network’s milestones and upcoming developments. The vision statement should be highlighted in a way that it resonates with the audience. The call to action at the bottom should be motivating, encouraging the audience to join Deeper Network in shaping the future of the internet. The audience should leave this slide feeling inspired and excited about the potential of Web3 and Deeper Network’s role in it.
+1. The roadmap graphic should be dynamic, with each milestone appearing as the speaker discusses it.
+2. The compass should have a subtle animation, symbolizing continuous navigation and progress.
+3. The key features section should be visually engaging, with simple icons and keywords. Each feature should appear one by one as the speaker discusses them.
+4. The quote at the bottom should appear with a fade-in effect to emphasize the vision of Deeper Network.
+5. The speaker should use a laser pointer or similar tool to guide the audience through the elements of the slide.
+6. The transition to this slide should be smooth, with the roadmap graphic being the focal point.
 
-## Slide 10: Thank You & Connect with Us
+*Additional Information:*
 
-- Title: Thank You & Connect with Us
-- Subtitle: Join Us in Building the Future of the Internet
-- Visuals: Contact information, social media icons, QR codes, background image of a connected world.
+This slide serves to convey Deeper Network’s vision and roadmap for the future. The design and layout should be futuristic and dynamic, reflecting the forward-looking nature of the content. The speaker should engage the audience by explaining the milestones and how they contribute to the overall vision of Deeper Network. The visuals should be symbolic and representative of the concepts being discussed. The roadmap graphic is a key element and should be designed to clearly convey the progression and milestones.
+
+**Slide 10: Thank You & Connect with Us**
 
 *Content and Speaker's Note:*
 
-"Thank you all for your attention and for joining us today. We are excited about the future and the role that Deeper Network plays in shaping the Web3 ecosystem. We believe in the power of community and collaboration, and we invite you to join us in this journey.
+- Title: Thank You & Connect with Us
+- Subtitle: Stay Engaged with Deeper Network
+- Visuals: A collage of social media icons, official website, and product links.
+- Contact Information: List of various platforms and links where Deeper Network can be found.
 
-For further discussions, collaborations, or queries, please do not hesitate to reach out to us. You can connect with us through various channels:
+*Speaker's Note:*
 
-- Email: contact@deeper.network
-- Twitter: @deeper_network
-- LinkedIn: Deeper Network Inc
-- Telegram: DeeperNetwork
-
-Also, scan the QR code on the screen to join our community and stay updated on the latest developments.
-
-Once again, thank you for being a part of this event. Let’s work together to build a more secure, decentralized, and empowering internet for all."
+"Thank you for your attention and interest in Deeper Network. We invite you to stay engaged and connected with us through our various platforms. Whether you are looking to purchase our products, seek support, participate in discussions, or simply stay updated with our latest developments, we have multiple channels available. Your engagement is valuable to us, and we look forward to building a more secure and decentralized web together."
 
 *Design Layout:*
 
-1. The top section of the slide should have the title and subtitle centered.
-2. Below the title, there should be a visually appealing background image representing a connected world or community.
-3. On the left side, include a section with a heartfelt thank you note in an elegant font.
-4. On the right side, display the contact information along with social media icons. Each icon should be clickable and lead to the respective social media page.
-5. Below the contact information, include QR codes that audience members can scan to directly join the Deeper Network community or subscribe to newsletters.
-6. The bottom section should have a final call to action encouraging the audience to stay connected and collaborate.
+1. The slide background should be clean and professional, preferably in Deeper Network's brand colors.
+2. The title and subtitle should be at the top, centered, in bold fonts.
+3. Below the title, place a collage of social media icons (Twitter, Instagram, Facebook, YouTube, LinkedIn, Reddit, Medium, Telegram, Discord) in a semi-circle or grid layout.
+4. Below the icons, display the contact information in two columns. Each entry should have a small icon representing the platform and the link next to it.
+5. At the bottom, include a thank you message in an elegant font.
 
 *Presentation Effect:*
 
-This slide should convey gratitude and openness. The speaker should express genuine thanks and emphasize the importance of community and collaboration in achieving Deeper Network’s vision. The background image should evoke a sense of global connectivity and community. The contact information and social media icons should be clearly visible and accessible. The QR codes add an element of interactivity, making it easy for the audience to connect with Deeper Network. The speaker’s tone should be warm, inviting, and optimistic. The audience should leave feeling valued and encouraged to engage with Deeper Network and contribute to the future of the internet.
+1. The social media icons should have a hover effect, where they slightly enlarge or change color when hovered over.
+2. The contact information should appear with a fade-in effect.
+3. The thank you message at the bottom should have a special emphasis, possibly with a different color or font style.
+4. The speaker should use a laser pointer or similar tool to guide the audience through the elements of the slide.
+5. The transition to this slide should be smooth, with a focus on the social media icons.
+
+*Additional Information:*
+
+This slide serves as a closing slide and an invitation for the audience to stay connected with Deeper Network. It should be visually engaging but not cluttered. The speaker should briefly mention the importance of community engagement and how the audience can stay connected through various platforms.
+
+Here is the contact information to be displayed:
+
+- Official Website: [deeper.network](https://www.deeper.network/)
+- Shop: [shop.deeper.network](https://shop.deeper.network/)
+- Support Desk: [support.deeper.network](https://support.deeper.network/hc/en-us)
+- Deeper Chain Mainnet: [deeperscan.io/deeper](https://www.deeperscan.io/deeper)
+- Staking Information: [staking.deeper.network/stakingData](https://staking.deeper.network/stakingData)
+- BSC Network Staking: [device-bsc.deeper.network](https://device-bsc.deeper.network/)
+- Bridge Platform: [deeperchain-ethereum-swap.deeper.network/swap](https://deeperchain-ethereum-swap.deeper.network/swap)
+- Deeper AtomOS: [34.34.34.34/login](http://34.34.34.34/login?from=/) or [11.22.33.44/login](http://11.22.33.44/login?from=/)
+- Pancakeswap: [pancakeswap.finance/swap](https://pancakeswap.finance/swap?outputCurrency=0xA0A2eE912CAF7921eaAbC866c6ef6FEc8f7E90A4)
+- Forum: [deepernetwork.cc](https://deepernetwork.cc/)
+- Calculator: [dpr.deeper.network/calculator](https
+
+://dpr.deeper.network/calculator)
+- Coinmarketcap: [coinmarketcap.com/currencies/deeper-network/markets/](https://coinmarketcap.com/currencies/deeper-network/markets/)
+- Twitter: [@deeper_network](https://twitter.com/deeper_network)
+- Instagram: [deeper.network](https://www.instagram.com/deeper.network/)
+- Facebook: [deeper.network](https://www.facebook.com/deeper.network)
+- YouTube: [@DeeperNetwork](https://www.youtube.com/@DeeperNetwork)
+- LinkedIn: [Deeper Network Inc.](https://www.linkedin.com/company/deeper-network-inc/)
+- Reddit: [r/DeeperNetwork](https://www.reddit.com/r/DeeperNetwork/)
+- Medium Blog: [deeper-network.medium.com](https://deeper-network.medium.com/)
+- English Telegram Group: [t.me/DeeperNetwork](https://t.me/DeeperNetwork)
+- Chinese Telegram Group: [t.me/deeper_network_cn](https://t.me/deeper_network_cn)
+- Discord Server: [discord.gg/SM9q2zzYT7](https://discord.gg/SM9q2zzYT7)
+- Bitcointalk Discussion: [bitcointalk.org/index.php?topic=5288352.0](https://bitcointalk.org/index.php?topic=5288352.0)
+- GitHub Repository: [github.com/e2chain-dev/deeper-chain](https://github.com/e2chain-dev/deeper-chain)
+- CoinGecko: [coingecko.com/en/coins/deeper-network](https://www.coingecko.com/en/coins/deeper-network/)
+
+The speaker should thank the audience for their time and encourage them to connect with Deeper Network through the various platforms listed. The speaker can also mention that these platforms are great resources for anyone looking to learn more or get involved with Deeper Network.
