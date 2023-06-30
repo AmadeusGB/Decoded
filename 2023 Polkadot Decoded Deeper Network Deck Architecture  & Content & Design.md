@@ -414,9 +414,7 @@ Here is the contact information to be displayed:
 - Deeper AtomOS: [34.34.34.34/login](http://34.34.34.34/login?from=/) or [11.22.33.44/login](http://11.22.33.44/login?from=/)
 - Pancakeswap: [pancakeswap.finance/swap](https://pancakeswap.finance/swap?outputCurrency=0xA0A2eE912CAF7921eaAbC866c6ef6FEc8f7E90A4)
 - Forum: [deepernetwork.cc](https://deepernetwork.cc/)
-- Calculator: [dpr.deeper.network/calculator](https
-
-://dpr.deeper.network/calculator)
+- Calculator: [dpr.deeper.network/calculator](https://dpr.deeper.network/calculator)
 - Coinmarketcap: [coinmarketcap.com/currencies/deeper-network/markets/](https://coinmarketcap.com/currencies/deeper-network/markets/)
 - Twitter: [@deeper_network](https://twitter.com/deeper_network)
 - Instagram: [deeper.network](https://www.instagram.com/deeper.network/)
